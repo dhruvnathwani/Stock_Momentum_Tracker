@@ -1,0 +1,2 @@
+# Stock_Momentum_Tracker
+This was my first shot at a basic machine learning application. The script pulls down current stock prices using the Alpha Vantage API. From there it performs a momentum analysis and fits the data for the stock into three separate ML algorithms through SK Learn, identifies the optimal algorithm to use from the output, and predicts the next minute's stock price from there. The script is set to run every minute until the market closes while assessing an accuracy percentage throughout the trading day. 
