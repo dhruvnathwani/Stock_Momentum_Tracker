@@ -1,0 +1,9 @@
+gunicorn
+pandas
+requests
+json
+numpy
+sklearn
+matplotlib
+datetime
+time
