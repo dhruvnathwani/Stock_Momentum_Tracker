@@ -1,1 +1,1 @@
-web: gunicorn stock_momentum.wsgi
+web: gunicorn stock_momentum.py
